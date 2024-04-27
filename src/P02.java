@@ -5,5 +5,6 @@ public class P02 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Adınızı giriniz :");
         String isim = scanner.nextLine();
+        System.out.println("Girdiginiz isim "+isim+" olarak kaydedildi");
     }
 }

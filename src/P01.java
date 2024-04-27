@@ -6,6 +6,7 @@ public class P01 {
 
          c=a+b;
         System.out.println("c: "+(a+b));
+        System.out.println("Java candir");
 
 
     }
